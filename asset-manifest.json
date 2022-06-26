@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactapp-Auto-Ai/static/css/main.cf2ae022.css",
+    "main.js": "/Reactapp-Auto-Ai/static/js/main.64eb14ad.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reactapp-Auto-Ai/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Reactapp-Auto-Ai/index.html",
+    "main.cf2ae022.css.map": "/Reactapp-Auto-Ai/static/css/main.cf2ae022.css.map",
+    "main.64eb14ad.js.map": "/Reactapp-Auto-Ai/static/js/main.64eb14ad.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reactapp-Auto-Ai/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2ae022.css",
+    "static/js/main.64eb14ad.js"
+  ]
+}
